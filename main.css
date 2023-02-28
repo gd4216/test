@@ -1,0 +1,13 @@
+#first {
+    max-width: 50%;
+    margin: auto;
+}
+
+video {
+    display: block;
+    max-width: 100%;
+}
+
+video::cue {
+font-size: 120%;
+}
